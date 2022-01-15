@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/sirupsen/logrus v1.8.1
+	github.com/yuin/goldmark v1.4.4
 )
 
 require (
